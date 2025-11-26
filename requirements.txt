@@ -1,6 +1,7 @@
 dash==2.11.0
-dash-bootstrap-components
+dash-bootstrap-components==1.7.1
 pandas
 plotly
 gunicorn
 waitress
+setuptools
