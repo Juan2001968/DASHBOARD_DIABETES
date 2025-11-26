@@ -1,0 +1,6 @@
+dash==2.11.0
+dash-bootstrap-components
+pandas
+plotly
+gunicorn
+waitress
